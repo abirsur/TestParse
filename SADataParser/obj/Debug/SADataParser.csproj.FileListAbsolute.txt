@@ -1,0 +1,9 @@
+c:\users\abirs\documents\visual studio 2015\Projects\SADataParser\SADataParser\bin\Debug\SADataParser.exe.config
+c:\users\abirs\documents\visual studio 2015\Projects\SADataParser\SADataParser\obj\Debug\SADataParser.csprojResolveAssemblyReference.cache
+c:\users\abirs\documents\visual studio 2015\Projects\SADataParser\SADataParser\obj\Debug\SADataParser.DataParse.resources
+c:\users\abirs\documents\visual studio 2015\Projects\SADataParser\SADataParser\obj\Debug\SADataParser.Properties.Resources.resources
+c:\users\abirs\documents\visual studio 2015\Projects\SADataParser\SADataParser\obj\Debug\SADataParser.csproj.GenerateResource.Cache
+c:\users\abirs\documents\visual studio 2015\Projects\SADataParser\SADataParser\bin\Debug\SADataParser.exe
+c:\users\abirs\documents\visual studio 2015\Projects\SADataParser\SADataParser\bin\Debug\SADataParser.pdb
+c:\users\abirs\documents\visual studio 2015\Projects\SADataParser\SADataParser\obj\Debug\SADataParser.exe
+c:\users\abirs\documents\visual studio 2015\Projects\SADataParser\SADataParser\obj\Debug\SADataParser.pdb
